@@ -2,9 +2,14 @@
 
 -Live site URL [https://fylo-dark-theme-landing-page-olive.vercel.app/]
 
-##Build with using
 
--html
--css
+### Built with
+
+-  HTML5 
+- CSS 
+- Flexbox
+- Fontawesome icon animation
+
+
 
  
